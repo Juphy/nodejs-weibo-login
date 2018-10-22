@@ -9,7 +9,7 @@
 ## 运行方法
 由于 `async/await` 是ES7中的，所以运行时要加上`--harmony-async-await` 参数
 ```bash
-git clone git@github.com:ruansongsong/nodejs-weibo-login.git
+git clone https://github.com/ruansongsong/nodejs-weibo-login.git
 cd node-spider-of-weibo
 npm install
 node --harmony-async-await index.js
